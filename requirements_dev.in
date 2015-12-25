@@ -1,3 +1,5 @@
+-r requirements.in
+
 # GIT UTILITIES
 # -------------------------------------
 bumpversion
@@ -33,3 +35,4 @@ PyYAML
 
 # DEV UTILITIES (Your stuff here)
 # -------------------------------------
+ipython
